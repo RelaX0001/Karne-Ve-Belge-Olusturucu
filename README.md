@@ -5,6 +5,8 @@
 ![image](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/assets/149694302/49918dfd-073f-420f-bf15-fd6e89995dd4)
 ![image](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/assets/149694302/388ae12f-3166-477e-b6f0-1f9630c2e894)
 
+⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
+
 Tüm Hakları Saklıdır, Kopyalanamaz Veya Çoğaltılamaz!
 Creative Commons 2023-2024
 Created by RelaX0001
