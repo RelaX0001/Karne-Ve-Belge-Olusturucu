@@ -1,3 +1,9 @@
+# Çok Basit Bir Karne Ve Belge Oluşturucu
+
+İlk Olarak Uygylmayı İnirin
+
+[Uygulamayı İndir](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/releases/download/RelaX_Karne_Ve_Belge_Olu%C5%9Fturucu.exe/RelaX_Karne_Ve_Belge_Olusturucu.exe)
+
 ![image](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/assets/149694302/a903850b-88dc-4037-b7fa-8cd115b0fde5)
 ![image](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/assets/149694302/d1f057fa-f9b9-4fb1-beab-65151f49d5f6)
 ![image](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/assets/149694302/c6b7672e-6e82-47c9-a723-c9963ba19954)
