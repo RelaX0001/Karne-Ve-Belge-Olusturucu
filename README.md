@@ -2,7 +2,7 @@
 
 İlk Olarak Uygulamayı İndirin
 
-[Uygulamayı İndir](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/releases/download/RelaX_Karne_Ve_Belge_Olu%C5%9Fturucu.exe/RelaX_Karne_Ve_Belge_Olusturucu.exe)
+[Uygulamayı İndir](https://github.com/RelaX0001/Karne-Ve-Belge-Olusturucu/releases/download/RelaX_Karne_Ve_Belge_Olu%C5%9Fturucu.exe/RelaX.Karne.Ve.Belge.Olusturucu.exe)
 
 Sonra Zaten Nasıl Kullancağınız Yazıyor.
 
